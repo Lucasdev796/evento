@@ -26,7 +26,7 @@ O objetivo é cadastrar e gerenciar **participantes**, **atividades**, **categor
 
 1. Clone o repositório:
    ```bash
-https://github.com/Lucasdev796/event/tree/main
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
    
 Importe o projeto no IntelliJ IDEA (ou outra IDE).
 
